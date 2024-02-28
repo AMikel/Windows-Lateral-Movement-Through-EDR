@@ -9,3 +9,12 @@ Some EDR software may not capture persistence events directly or Windows Events.
 Other events like network activity, command line, and file metadata are fairly common on most EDR products and should be relevant to this guide.
 
 Based on the SANS Hunt Evil poster.
+
+
+- [Mapping of Network Share](docs/Mapping%20of%20Network%20Share.md)
+- [PowerShell](docs/PowerShell.md)
+- [PsExec](docs/PsExec.md)
+- [Remote Desktop Protocol](docs/Remote%20Desktop%20Protocol.md)
+- [Scheduled Tasks](docs/Scheduled%20Tasks.md)
+- [Services](docs/Services.md)
+- [WMI](docs/WMI.md)
