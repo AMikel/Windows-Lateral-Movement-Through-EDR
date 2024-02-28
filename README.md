@@ -18,3 +18,25 @@ Based on the SANS Hunt Evil poster.
 - [Scheduled Tasks](docs/Scheduled%20Tasks.md)
 - [Services](docs/Services.md)
 - [WMI](docs/WMI.md)
+
+
+
+### Reference Links
+
+#### Official Documentation and Guides
+- [SANS Hunt Evil Poster](https://www.sans.org/posters/hunt-evil/)
+- [Microsoft Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
+- [PowerShell Scripting Guide](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1)
+
+#### Useful Tools and Resources
+- [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+- [MITRE ATT&CK® Framework](https://attack.mitre.org/)
+- [Endpoint Detection and Response (EDR) Solutions](https://www.gartner.com/reviews/market/endpoint-detection-and-response-solutions)
+
+#### Community and Learning
+- [Reddit - r/netsec: A community for technical news and discussion of information security and closely related topics](https://www.reddit.com/r/netsec/)
+- [SANS Institute Reading Room - Whitepapers on Incident Detection and Response](https://www.sans.org/white-papers/))
+
+<!--
+Keywords: Lateral Movement Detection, Windows Security Monitoring, Endpoint Detection and Response (EDR), EDR Security Techniques, Investigating Windows Attacks, SIEM Security Analysis, Windows Event Logs Analysis, Command Line Monitoring, Network Traffic Analysis in EDR, PowerShell Security Practices, Remote Desktop Protocol Security, Scheduled Tasks for Persistence, Windows Services Manipulation, WMI Attacks and Defense
+-->
